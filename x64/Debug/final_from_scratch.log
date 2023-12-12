@@ -1,0 +1,18 @@
+﻿  Camera.cpp
+  EBO.cpp
+  main.cpp
+D:\Sam\Documents\School\Fall 2023\CS450_Final_Project\main.cpp(331,30): warning C4018: '<': signed/unsigned mismatch
+  Mesh.cpp
+D:\Sam\Documents\School\Fall 2023\CS450_Final_Project\Mesh.cpp(83,43): warning C4267: 'argument': conversion from 'size_t' to 'GLsizei', possible loss of data
+  Model.cpp
+D:\Sam\Documents\School\Fall 2023\CS450_Final_Project\Model.cpp(246,91): warning C4267: 'argument': conversion from 'size_t' to 'GLuint', possible loss of data
+D:\Sam\Documents\School\Fall 2023\CS450_Final_Project\Model.cpp(253,93): warning C4267: 'argument': conversion from 'size_t' to 'GLuint', possible loss of data
+  shaderClass.cpp
+  stb.cpp
+  Texture.cpp
+  VAO.cpp
+D:\Sam\Documents\School\Fall 2023\CS450_Final_Project\VAO.cpp(12,63): warning C4244: 'argument': conversion from 'GLsizeiptr' to 'GLsizei', possible loss of data
+  VBO.cpp
+  Generating Code...
+  glad.c
+  final_from_scratch.vcxproj -> D:\Sam\Documents\School\Fall 2023\CS450_Final_Project\x64\Debug\final_from_scratch.exe
